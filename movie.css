@@ -1,0 +1,116 @@
+.banner-bg {
+  background: url('/Users/amaanpanjwani/Downloads/assignment_2_resource/bannerbackground.png') repeat-x;
+  padding: 10px 0;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  color: rgb(26, 26, 26);
+}
+.banner {
+  display: block;
+  margin: auto;
+}
+body{
+  background-image: url('/Users/amaanpanjwani/Downloads/assignment_2_resource/background.png');
+}
+.main-container {
+  width: 800px;
+  margin: 20px auto;
+  border: 4px solid black;
+padding: 10px;
+}
+.percentage{
+  font-size: 48pt;
+    color: red;
+    margin-right: 10px;
+}
+.rating-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url('/Users/amaanpanjwani/Downloads/assignment_2_resource/bannerbackground.png');
+}
+.one {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.two {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+
+}
+.three {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.four {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.five {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.six {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.seven {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.eight {
+  margin: 20px auto;
+  border: 2px solid black;
+padding: 10px;
+}
+.content{
+  display: flex;
+  justify-content: space-between;
+}
+.left-column{
+  width: 45%;
+  font-family: Arial, sans-serif;
+  float: right;
+}
+
+.right-column {
+  width: 45%;
+  background-color: #A2B964;
+  padding: 10px;
+}
+.rottenlogo{
+  float: left;
+  margin-right: 10px;
+}
+.tomato{
+  float: left;
+  margin-right: 10px;
+}
+.reviews {
+  font-size: 16pt;
+  color: black;
+
+}
+
+.GO {
+width: 100%;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
